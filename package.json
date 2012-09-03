@@ -1,0 +1,13 @@
+{
+  "name": "scrapeCheckList",
+  "version": "1.0",
+  "author": "avnercohen",
+  "dependencies": {
+    "request": "~2.11.0",
+    "cheerio": "~0.9.2"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.0.x"
+  }
+}
